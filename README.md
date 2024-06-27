@@ -17,4 +17,4 @@ VirtualPaint is an innovative application of computer vision technology that all
 |Operating Systen|X-32 bit Windows,Linux and Mac|X-64 bit Windows,Linux and Mac|
 |Ram|512 MB|2GB RAM|
 |Python Version|3|3|
-|Mysql Version|5.0|5.0|
+|Web Camera|Logitech c310 etc|Logitech C920 etc|
